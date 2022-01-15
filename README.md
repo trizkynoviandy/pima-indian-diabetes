@@ -1,8 +1,8 @@
 # Pima Indian Diabetes Prediction
 
-The aims of this project is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Logistic Regression and k-Nearest Neighbors are used as the prediction method.
+The aims of this project is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset using logistic regression.
 
-## Variables included in the dataset : 
+## Variables included in the dataset
 
 * Pregnancies
 * Glucose
@@ -14,4 +14,4 @@ The aims of this project is to predict whether or not a patient has diabetes, ba
 * Age
 * Outcome
 
-Dataset source : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+Dataset source : <https://www.kaggle.com/uciml/pima-indians-diabetes-database>
