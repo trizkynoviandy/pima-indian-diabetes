@@ -1,9 +1,8 @@
-'''
+""""
 
 # Pima Indian Diabetes Prediction
 
-The aims of this project is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Logistic Regression is used as the prediction method.
-
+The aims of this project is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset using logistic regression.
 Variables included in the dataset : 
 
 * Pregnancies
@@ -18,7 +17,7 @@ Variables included in the dataset :
 
 Dataset source : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-'''
+"""
 
 # 1. Import Libraries
 import matplotlib.pyplot as plt
