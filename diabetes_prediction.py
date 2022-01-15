@@ -22,7 +22,6 @@ Dataset source : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 # 1. Import Libraries
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 
 from sklearn.linear_model import LogisticRegression
